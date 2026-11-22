@@ -9,7 +9,7 @@
 7. Relational Algebra and Relational Calculus
 8. ER to relational mapping
 9. Database Programming Techniques
-10.Functional Dependencies and Normalization for Relational Databases
-11.Storage management and Indexing
-12.Query Processing and Optimization
-13.Transaction processing, Concurrency Control and Recovery
+10. Functional Dependencies and Normalization for Relational Databases
+11. Storage management and Indexing
+12. Query Processing and Optimization
+13. Transaction processing, Concurrency Control and Recovery
